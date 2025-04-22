@@ -1,6 +1,6 @@
 # O Potencial da Computação Quântica
 
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/Status-Concluído-yellow)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/Abeners2/ArtigoCientifico-Computacao-Quantica)
 ![Licença](https://img.shields.io/github/license/Abeners2/ArtigoCientifico-Computacao-Quantica)
 ![GitHub Forks](https://img.shields.io/github/forks/Abeners2/ArtigoCientifico-Computacao-Quantica?style=social)
